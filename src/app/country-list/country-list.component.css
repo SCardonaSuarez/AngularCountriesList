@@ -1,0 +1,17 @@
+p {
+    color: #2a4caa;
+    text-decoration: none;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    -webkit-text-stroke: 1px rgb(126, 10, 10);
+}
+
+ul {
+    display: block;
+    text-align: center;
+    list-style: none;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 50px;
+}
